@@ -1,0 +1,51 @@
+🚀 Day 08/30 – Random Quote Generator
+
+Continuing my 30 Days JavaScript Challenge, I built a modern Quote Generator Web App using Vanilla JavaScript.
+
+🛠️ Tech Used:
+
+• HTML • CSS • Vanilla JavaScript
+
+✨ Features:
+
+• Generate random quotes from API
+• Displays quote with author
+• Dark / Light mode toggle (with local storage)
+• Theme persistence on reload
+• One-click copy to clipboard
+• Loading state while fetching data
+• Fallback quote on API error
+• Fully responsive design
+• Smooth UI interactions
+
+📚 What I Learned:
+
+• Fetch API with async/await
+• Handling API errors gracefully
+• DOM manipulation & event handling
+• Clipboard API usage
+• Theme toggling with localStorage
+• Writing cleaner and reusable JS logic
+• Working with real-world APIs
+
+🚀 Next Improvements:
+
+• Share quote (Twitter / WhatsApp)
+• Add categories / filters
+• Favorite / save quotes
+• Toast notifications
+• Quote transition animations
+• Text-to-Speech feature
+
+🌐 Live
+
+https://saurabh54e.github.io/Js-Day08-Quote-Generator/
+
+(update if needed)
+
+👨‍💻 Author
+
+Saurabh Singh
+B.Tech CSE (AI & ML) — Web Development | UI/UX | Robotics
+
+⭐ If you like this project, consider giving it a star!
