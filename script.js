@@ -53,4 +53,13 @@ btn.addEventListener("click", getQuote);
 // initial load
 getQuote();
 
+const copyBtn = document.getElementById("copy-quote");
+copyBtn.addEventListener("click", () => {
+  const text = `${quote.innerText}`;
+  navigator.clipboard.writeText(text);
+    copyBtn.innerText = "Copied!";
+    setTimeout(() => {
+      copyBtn.innerText = "Copy Quote";
+    }, 2000);
+});
 
